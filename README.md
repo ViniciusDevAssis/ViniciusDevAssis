@@ -1,6 +1,6 @@
 # <p align="center">👋 Hello, my name is Vinícius!</p>
     
-    🔨 I'm looking to collaborate in the development of systems for desktop and mobile devices
+    🔨 I'm looking to collaborate in the development of systems for desktop and web
     
     📫 How to contact me: vinicius.assis.mr@gmail.com
     
