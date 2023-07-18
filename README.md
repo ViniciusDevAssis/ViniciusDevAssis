@@ -14,6 +14,8 @@ My journey as a developer started over 1 year ago, and during this time, I have 
 - JPA/Hibernate: I have knowledge in JPA/Hibernate for object-relational mapping and database access.
 
 - Python: I have utilized Python for developing various algorithms related to logic programming, object-oriented programming, and desktop systems.
+  
+- Database and SQL: I am also familiar with SQL writing and have experience working with different SGBDs such as SQLite, MySQL, and PostgreSQL.
 
 ## Key Projects
 
