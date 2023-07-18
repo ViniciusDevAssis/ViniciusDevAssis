@@ -1,4 +1,4 @@
-# Vinícius de Assis
+# I'm Vinícius de Assis
 
 ## Hello, how are you? 👋
 Welcome to my GitHub profile! I am Vinícius de Assis, a passionate developer with experience in Java, one of my main programming languages. Additionally, I have had some exposure to Python. I am 24 years old and currently residing in Feira de Santana, Bahia, Brazil.
