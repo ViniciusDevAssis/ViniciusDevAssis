@@ -7,11 +7,13 @@ Welcome to my GitHub profile! I am Vinícius de Assis, a passionate developer wi
 My journey as a developer started over 1 year ago, and during this time, I have been dedicated to studying and practicing programming. I am a Technical Specialist in Systems Development, which has provided me with a solid foundation for my work in this field.
 
 ## Technologies and Frameworks
-- Java: I have experience in Java development, particularly using Spring Boot to build web applications and RESTful APIs.
+- Java: I have experience in Java development, using it to create desktop applications and algorithms with OOP principles and JDBC for database access, following the DAO design pattern.
+  
+- Spring Boot: I am familiar with using Spring Boot to build efficient and streamlined web applications and RESTful APIs.
+  
+- JPA/Hibernate: I have knowledge in JPA/Hibernate for object-relational mapping and database access.
 
-- JPA/Hibernate: I am familiar with using JPA/Hibernate for object-relational mapping and database access.
-
-- Python: I have had some exposure to Python in personal projects and feel comfortable with the language.
+- Python: I have utilized Python for developing various algorithms related to logic programming, object-oriented programming, and desktop systems.
 
 ## Key Projects
 
