@@ -1,46 +1,47 @@
-# I'm Vinícius de Assis
+Eu sou o Vinícius de Assis
 
-## Hello, how are you? 👋
-Welcome to my GitHub profile! I am Vinícius de Assis, a passionate developer with experience in Java, one of my main programming languages. Additionally, I have had some exposure to Python. I am 24 years old and currently residing in Feira de Santana, Bahia, Brazil.
+## Olá 👋
+Bem-vindo ao meu perfil do GitHub! Eu sou Vinícius de Assis, um desenvolvedor apaixonado com experiência em Java, uma das minhas principais linguagens de programação. Além disso, também já tive contato com Python. Tenho 24 anos e atualmente moro em Feira de Santana, Bahia, Brasil.
 
-## About Me
-My journey as a developer started over 1 year ago, and during this time, I have been dedicated to studying and practicing programming. I am a Technical Specialist in Systems Development, which has provided me with a solid foundation for my work in this field.
+## Sobre mim
+Minha jornada como desenvolvedor começou há mais de 1 ano, e durante esse período, venho me dedicando ao estudo e prática de programação. Sou Técnico em Desenvolvimento de Sistemas, o que tem proporcionado uma base sólida para a minha atuação nessa área.
 
-## Technologies and Frameworks
-- Java: I have experience in Java development, using it to create desktop applications and algorithms with OOP principles and JDBC for database access, following the DAO design pattern.
-  
-- Spring Boot: I am familiar with using Spring Boot to build efficient and streamlined web applications and RESTful APIs.
-  
-- JPA/Hibernate: I have knowledge in JPA/Hibernate for object-relational mapping and database access.
+## Tecnologias e Frameworks
 
-- Python: I have utilized Python for developing various algorithms related to logic programming, object-oriented programming, and desktop systems.
-  
-- Database and SQL: I am also familiar with SQL writing and have experience working with different SGBDs such as SQLite, MySQL, and PostgreSQL.
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- Java: Tenho experiência em desenvolvimento com Java, utilizando-o para criar aplicações desktop e algoritmos com princípios de Orientação a Objetos (POO) e acesso a banco de dados JDBC, seguindo o padrão de projeto DAO.
 
-## Key Projects
+- Spring Boot: Estou familiarizado com o uso do Spring Boot para construir aplicações web e APIs RESTful de forma eficiente e simplificada.
 
-### [Boxes – Enterprise Management System](https://github.com/ViniciusDevAssis/Boxes-back-end)
-Boxes is a web-based system still in production, designed for managing buffet businesses. It aims to facilitate business administration by assisting with product inventory management, client registration, financial management, and order control and registration. The backend and database were developed using the following technologies:
-#### Technologies Used (Back-End and Database):
-Java EE, Spring Boot, JPA/Hibernate, H2, and PostgreSQL.
+- JPA/Hibernate: Tenho conhecimento em JPA/Hibernate para mapeamento objeto-relacional e acesso a bancos de dados.
 
-## Seeking Opportunities
+- Python: Já utilizei o Python para desenvolver diversos algoritmos relacionados à lógica de programação, programação orientada a objetos e sistemas desktop.
 
-Currently, I am seeking my first job as a programmer. My passion for the field, technical background, and commitment to learning make me an enthusiastic candidate ready to take on new challenges.
+- Banco de Dados e SQL: Também tenho familiaridade com a escrita de SQL e experiência de trabalho com diferentes SGBDs, como SQLite, MySQL e PostgreSQL.
 
-## Contact:
-    
+## Projetos Principais
+
+### [Boxes – Sistema de Gestão Empresarial](https://github.com/ViniciusDevAssis/Boxes-back-end)
+Boxes é um sistema web ainda em produção, para a gestão de empresas do ramo de buffet, para ajudar e facilitar a administração do negócio, de modo a auxiliar a gestão de estoque de produtos, cadastro de clientes, gestão financeira e controle e registro de pedidos. O backend e o banco de dados foram desenvolvidos utilizando as seguintes tecnologias:
+#### Tecnologias utilizadas (Back-End e Database):
+Java EE, Spring Boot, JPA/Hibernate, H2 e PostgreSQL.
+
+## Buscando Oportunidades
+
+Atualmente, estou em busca do meu primeiro emprego como programador. Minha paixão pela área, minha formação técnica e meu empenho em aprender tornam-me um candidato entusiasmado e pronto para enfrentar novos desafios.
+
+## Contato
 <div>
 <pre align="center"><a href="https://www.linkedin.com/in/viniciusdevassis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">  <a href="https://www.instagram.com/viniciusdevassis.ig/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">  <a href = "mailto:viniciusdevassis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></pre>
 </div>
 
-## Acknowledgments
-I would like to thank everyone who has supported me and the projects that have been fundamental to my development as a programmer.
+## Agradecimentos
+Gostaria de agradecer a todas as pessoas que me apoiaram e aos projetos cujo trabalho foi fundamental para o meu desenvolvimento como programador.
 
-## Conclusion
-Thank you for visiting my profile! Feel free to explore the projects and get in touch if you have any questions or are interested in collaborating.        
+## Conclusão
+Obrigado por visitar o meu perfil! Sinta-se à vontade para explorar os projetos e entrar em contato caso tenha alguma dúvida ou interesse em colaborar.
 
-## Top Languages Used | Commits and Contributions
+## Principais Linguagens Usadas | Commits e Contribuições
 <br>
 <div>
 <a href="https://github.com/ViniciusDevAssis">
