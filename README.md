@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil do GitHub! Eu sou Vinícius de Assis, um desenvolvedor a
 ## Sobre mim
 Minha jornada como desenvolvedor começou há mais de 1 ano, e durante esse período, venho me dedicando ao estudo e prática de programação. Sou Técnico em Desenvolvimento de Sistemas, o que tem proporcionado uma base sólida para a minha atuação nessa área.
 
-## Tecnologias e Frameworks
+## Tecnologias, Frameworks e Ferramentas
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 - Java: Tenho experiência em desenvolvimento com Java, utilizando-o para criar aplicações desktop e algoritmos com princípios de Orientação a Objetos (POO) e acesso a banco de dados JDBC, seguindo o padrão de projeto DAO.
