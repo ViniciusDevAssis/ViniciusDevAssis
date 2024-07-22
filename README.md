@@ -1,21 +1,19 @@
 Eu sou o Vinícius de Assis
 
 ## Olá 👋
-Bem-vindo ao meu perfil do GitHub! Eu sou Vinícius de Assis, um desenvolvedor apaixonado com experiência em Java, uma das minhas principais linguagens de programação. Além disso, também já tive contato com Python. Tenho 24 anos e atualmente moro em Feira de Santana, Bahia, Brasil.
+Bem-vindo ao meu perfil do GitHub! Eu sou Vinícius de Assis, um desenvolvedor apaixonado com experiência em Java e Kotlin, minhas principais linguagens de programação. Tenho 25 anos e atualmente moro em Feira de Santana, Bahia, Brasil.
 
 ## Sobre mim
-Minha jornada como desenvolvedor começou há mais de 1 ano, e durante esse período, venho me dedicando ao estudo e prática de programação. Sou Técnico em Desenvolvimento de Sistemas, o que tem proporcionado uma base sólida para a minha atuação nessa área.
+Minha jornada como desenvolvedor começou há mais de 2 anos, e durante esse período, venho me dedicando ao estudo e prática de programação. Tenho formação de nível Técnico em Desenvolvimento de Sistemas, também estou cursando minha Graduação em Sistemas de Informação, o que tem proporcionado uma base sólida para a minha atuação nessa área.
 
 ## Tecnologias, Frameworks e Ferramentas
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 - Java: Tenho experiência em desenvolvimento com Java, utilizando-o para criar aplicações desktop e algoritmos com princípios de Orientação a Objetos (POO) e acesso a banco de dados JDBC, seguindo o padrão de projeto DAO.
 
-- Spring Boot: Estou familiarizado com o uso do Spring Boot para construir aplicações web e APIs RESTful de forma eficiente e simplificada.
+- Spring Boot: Estou familiarizado com o uso do Spring Boot para construir aplicações web e APIs RESTful de forma eficiente e simplificada, usando Java e/ou Kotlin.
 
 - JPA/Hibernate: Tenho conhecimento em JPA/Hibernate para mapeamento objeto-relacional e acesso a bancos de dados.
-
-- Python: Já utilizei o Python para desenvolver diversos algoritmos relacionados à lógica de programação, programação orientada a objetos e sistemas desktop.
 
 - Banco de Dados e SQL: Também tenho familiaridade com a escrita de SQL e experiência de trabalho com diferentes SGBDs, como SQLite, MySQL e PostgreSQL.
 
