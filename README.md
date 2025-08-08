@@ -1,7 +1,9 @@
-## Olá, seja bem vindo
-Eu sou Vinícius de Assis, um desenvolvedor fullstack com experiência em Java e Kotlin, minhas principais linguagens de programação. Aqui você encontrará projetos que refletem meu aprendizado, criatividade e dedicação.
+## Olá! Eu sou o Vinícius Assis 👋
+![GitHub stars](https://img.shields.io/github/stars/ViniciusDevAssis?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=ViniciusDevAssis&color=blue)
 
-## Principais Linguagens Usadas | Commits e Contribuições
+💻 Desenvolvedor Fullstack com foco em Java e Kotlin com Spring Boot
+
 <br>
 <div>
 <a href="https://github.com/ViniciusDevAssis">
@@ -9,7 +11,7 @@ Eu sou Vinícius de Assis, um desenvolvedor fullstack com experiência em Java e
 </div>
 
 ## Linguagens de Programação
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Tecnologias e Ferramentas
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -17,10 +19,10 @@ Eu sou Vinícius de Assis, um desenvolvedor fullstack com experiência em Java e
 ## Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Projetos Principais
+## Projetos
 
-### [Boxes – Sistema de Cotação Online (Back-end)](https://github.com/Full-Stack-Duck/boxes-online-quote-application-back)
-O Boxes é um sistema online de cotação, desenvolvido para facilitar a solicitação de orçamentos. O sistema permite que os clientes façam cotações rápidas. O backend é responsável por gerenciar as funcionalidades do sistema, fornecendo APIs para a criação, atualização e consulta de produtos e serviços. Este serviço foi desenvolvido utilizando Kotlin, Spring Boot, e MongoDB, visando escalabilidade, segurança e eficiência no processamento de dados.
+- **ProdMix API** - Catálogo de produtos em Java com Spring Boot 3+, sem preços, apenas para que os clientes possam consultar os itens de um estabelecimento.
+  🔗 [Ver repositório](https://github.com/ViniciusDevAssis/prodmix-api)
 
 ## Contato
 <div>
